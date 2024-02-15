@@ -21,8 +21,8 @@ Development of Neural Networks from scratch to get a deep insight. The code is w
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/NeuralNetworks.git
-cd NeuralNetworks
+git https://github.com/msaf9/neural-networks.git
+cd neural-networks
 ```
 
 ## License
